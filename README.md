@@ -105,7 +105,7 @@ const char* password = "26062007";
 
 // --- ThingSpeak ---
 unsigned long myChannelNumber = 3169406;   
-const char * myWriteAPIKey = "PADT8MTSUPYRDV8X";
+const char * myWriteAPIKey = "CDXGBQ6TL14V9HWY";
 WiFiClient client;
 
 // --- Ultrasonic Pins ---
