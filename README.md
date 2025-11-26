@@ -109,8 +109,8 @@ const char * myWriteAPIKey = "CDXGBQ6TL14V9HWY";
 WiFiClient client;
 
 // --- Ultrasonic Pins ---
-const int trigPin = 5;
-const int echoPin = 18;
+const int trigPin = 2;
+const int echoPin = 26;
 
 void setup() {
   Serial.begin(115200);
