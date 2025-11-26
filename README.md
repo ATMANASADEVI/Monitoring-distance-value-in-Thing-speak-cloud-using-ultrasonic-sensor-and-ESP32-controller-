@@ -104,7 +104,7 @@ const char* ssid = "slytherinn";
 const char* password = "26062007";
 
 // --- ThingSpeak ---
-unsigned long myChannelNumber = 3095478;   
+unsigned long myChannelNumber = 3169406;   
 const char * myWriteAPIKey = "PADT8MTSUPYRDV8X";
 WiFiClient client;
 
@@ -161,6 +161,7 @@ void loop() {
 
   delay(15000);  // ThingSpeak allows updates every 15 seconds
 }
+
 ```
 # CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-11-18 at 18 07 37_1058425e](https://github.com/user-attachments/assets/545384fc-dcf7-44d7-803b-84aef337a31f)
